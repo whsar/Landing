@@ -339,6 +339,7 @@ table{
     }
     h1{
         font-size:45px;
+        width: min-content;
     }
     .links a:hover{
         transform:scale(1);
@@ -370,7 +371,7 @@ table{
     }
     .card{
         display:block;
-        width:50%;
+        width:70%;
         margin:auto;
         margin-bottom:20px;
     }
